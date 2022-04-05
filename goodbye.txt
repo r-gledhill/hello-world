@@ -1,1 +1,2 @@
 goodbye!
+This file will explain why we are stopping.
